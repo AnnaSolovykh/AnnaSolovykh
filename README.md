@@ -2,7 +2,7 @@
 
 ### About Me:
 - 🔭 **Currently Working On:**
-  - **KidsFirst Project** - A co-parenting app designed to streamline child custody scheduling and reduce conflict for divorced parents.
+  - **KidsFirst Project** - An app designed to streamline child custody scheduling and reduce conflict for divorced parents.
   - **PlayTrade** - Revolutionizing card collection with a secure and user-friendly marketplace for different types of cards.
   - **DevConnexion** -  Connecting developers worldwide for collaboration and networking.
 
