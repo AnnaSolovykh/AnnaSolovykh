@@ -1,6 +1,6 @@
 # Anna Solovykh
 
-### About Me:
+### About Me
 - 🧑‍💻 I'm a full-stack developer with a teaching background.
 - 📚 My experience in education has fostered adaptability, precision in communication, and a profound love for continuous learning.
 - 🧩 I thrive on solving complex challenges, effectively balancing technical prowess with essential soft skills.
@@ -14,7 +14,7 @@
   - **Algorithms and Data Structures** - Deepening my understanding of fundamental and advanced concepts to improve problem-solving skills.
   
 
-### Skills and Experience:
+### Skills and Experience
 
 #### Programming Languages:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
