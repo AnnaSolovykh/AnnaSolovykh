@@ -50,13 +50,13 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-<br>
+### GitHub Stats
 
-<div align="center">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaSolovykh&&layout=compact&theme=dark)](https://github.com/AnnaSolovykh/github-readme-stats)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnnaSolovykh&show_icons=true&theme=default)
 
-</div>
+### Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaSolovykh&layout=compact)
 
 <h3 align="center">Contact Me:</h3>
 
