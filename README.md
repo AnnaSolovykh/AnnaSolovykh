@@ -1,6 +1,10 @@
 # Anna Solovykh
 
 ### About Me:
+- 🧑‍💻 I'm a full-stack developer with a teaching background.
+- 📚 My experience in education has fostered adaptability, precision in communication, and a profound love for continuous learning.
+- 🧩 I thrive on solving complex challenges, effectively balancing technical prowess with essential soft skills.
+  
 - 🔭 **Currently Working On:**
   - **KidsFirst Project** - An app designed to streamline child custody scheduling and reduce conflict for divorced parents.
   - **PlayTrade** - Revolutionizing card collection with a secure and user-friendly marketplace for different types of cards.
@@ -8,6 +12,7 @@
 
 - 🌱 **Currently Learning:**
   - **Algorithms and Data Structures** - Deepening my understanding of fundamental and advanced concepts to improve problem-solving skills.
+  
 
 ### Skills and Experience:
 
