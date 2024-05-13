@@ -56,7 +56,7 @@
 <h3 align="center">Contact Me:</h3>
 
 <div align="center">
-  <a href="mailto:rapnutaa@gmail.com">
+  <a href="mailto:rapnuta@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/annasolovykh/" target="_blank">
