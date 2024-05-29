@@ -1,5 +1,4 @@
 # Anna Solovykh
-![Pink and Cream Simple Marketing Manager LinkedIn Banner](https://github.com/AnnaSolovykh/AnnaSolovykh/assets/114008959/dd6d0a09-e586-4669-a399-8607f4094262)
 ### About Me
 - 🧑‍💻 I'm a full-stack developer with a teaching background.
 - 📚 My experience in education has fostered adaptability, precision in communication, and a profound love for continuous learning.
