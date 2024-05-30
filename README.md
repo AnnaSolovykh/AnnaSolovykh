@@ -1,4 +1,4 @@
-![White Minimalist Profile LinkedIn Banner-2](https://github.com/AnnaSolovykh/AnnaSolovykh/assets/114008959/c00314d2-15df-486c-ac62-110a75726470)
+![White Minimalist Profile LinkedIn Banner](https://github.com/AnnaSolovykh/AnnaSolovykh/assets/114008959/324d26f3-f37e-4c18-b297-ae52b381e37a)
 
 ### About Me
 - 🧑‍💻 I'm a full-stack developer with a teaching background.
