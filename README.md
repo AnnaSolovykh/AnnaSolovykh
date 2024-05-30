@@ -1,4 +1,5 @@
-# Anna Solovykh
+![White Minimalist Profile LinkedIn Banner-2](https://github.com/AnnaSolovykh/AnnaSolovykh/assets/114008959/c00314d2-15df-486c-ac62-110a75726470)
+
 ### About Me
 - 🧑‍💻 I'm a full-stack developer with a teaching background.
 - 📚 My experience in education has fostered adaptability, precision in communication, and a profound love for continuous learning.
