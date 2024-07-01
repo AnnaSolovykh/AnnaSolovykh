@@ -7,7 +7,7 @@
 - 🌐 Check out my [portfolio](https://annasolovykh-portfolio.vercel.app) for more details!
   
 - 🔭 **Currently Working On:**
-  - **[KidsFirst Project](https://github.com/JULIERAJ/KIDS-FIRST-v2)** - An app designed to streamline child custody scheduling and reduce conflict for divorced parents.
+  - **[KidsFirst Project](https://github.com/JULIERAJ)** - An app designed to streamline child custody scheduling and reduce conflict for divorced parents.
   - **[PlayTrade](https://github.com/ElenaCherpakova/play_trade)** - Revolutionizing card collection with a secure and user-friendly marketplace for different types of cards.
   - **[DevConnexion](https://github.com/Code-the-Dream-School/ffprac-team1-back)** -  Connecting developers worldwide for collaboration and networking.
 
