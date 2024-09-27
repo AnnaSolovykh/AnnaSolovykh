@@ -11,6 +11,9 @@
   - **[PlayTrade](https://github.com/ElenaCherpakova/play_trade)** - Revolutionizing card collection with a secure and user-friendly marketplace for different types of cards.
   - **[DevConnexion](https://github.com/Code-the-Dream-School/ffprac-team1-back)** -  Connecting developers worldwide for collaboration and networking.
 
+- 💼  **Currently Employed:**
+  - **Full-Stack Developer at Witt Hub** - Contributing to innovative projects and expanding my expertise in modern web technologies.
+  
 - 🌱 **Currently Learning:**
   - **Algorithms and Data Structures** - Deepening my understanding of fundamental and advanced concepts to improve problem-solving skills.
   
