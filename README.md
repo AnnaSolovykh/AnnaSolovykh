@@ -4,7 +4,6 @@
 - 🧑‍💻 I'm a full-stack developer with a teaching background.
 - 📚 My experience in education has fostered adaptability, precision in communication, and a profound love for continuous learning.
 - 🧩 I thrive on solving complex challenges, effectively balancing technical prowess with essential soft skills.
-[- 🌐 Check out my [portfolio](https://annasolovykh-portfolio.vercel.app) for more details!](url)
   
 - 🔭 **Recent projects:**
   - **[KidsFirst Project](https://github.com/JULIERAJ)** - An app designed to streamline child custody scheduling and reduce conflict for divorced parents.
