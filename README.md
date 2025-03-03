@@ -18,7 +18,8 @@
   - **Full-Stack Developer at Witt Hub** - Contributing to innovative projects and expanding my expertise in modern web technologies.
   
 - 🌱 **Currently Learning:**
-  - **Algorithms and Data Structures** - Deepening my understanding of fundamental and advanced concepts to improve problem-solving skills.
+  - **Algorithms and Data Structures** - Deepening my understanding of advanced concepts to improve problem-solving skills.
+  - **Python & SQL** – Expanding my backend and database expertise.  
   
 
 ### Skills and Experience
