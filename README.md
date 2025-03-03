@@ -9,7 +9,11 @@
   - **[KidsFirst Project](https://github.com/JULIERAJ)** - An app designed to streamline child custody scheduling and reduce conflict for divorced parents.
   - **[PlayTrade](https://github.com/ElenaCherpakova/play_trade)** - Revolutionizing card collection with a secure and user-friendly marketplace for different types of cards.
   - **[DevConnexion](https://github.com/Code-the-Dream-School/ffprac-team1-back)** -  Connecting developers worldwide for collaboration and networking.
-
+ 
+- 🌍 **Freelance projects:**
+  - **[Maria English in Canada](https://maria-english-incanada.com)** – A website for an English teacher in Canada, helping students improve their language skills.  
+  - **[Afemida Consulting](https://www.afemida.com/en/)** – A consulting company in Cyprus, providing expert legal and business services.
+  
 - 💼  **Currently Employed:**
   - **Full-Stack Developer at Witt Hub** - Contributing to innovative projects and expanding my expertise in modern web technologies.
   
