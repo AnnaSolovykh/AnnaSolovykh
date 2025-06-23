@@ -76,11 +76,16 @@
 
 <div align="center">
   <a href="mailto:rapnuta@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img 
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+      alt="Gmail"
+    />
   </a>
   <a href="https://www.linkedin.com/in/annasolovykh/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin"  />
-  </a>  
+    <img 
+      src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" 
+      alt="LinkedIn"
+    />
+  </a>
 </div>
-
 
